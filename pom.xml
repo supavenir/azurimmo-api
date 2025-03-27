@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>azurimmo</name>
 	<description>Projet Immobilier</description>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>

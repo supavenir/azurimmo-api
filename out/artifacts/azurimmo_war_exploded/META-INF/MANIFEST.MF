@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: jcheron
+Build-Jdk: Oracle OpenJDK 22.0.2
+Implementation-Title: azurimmo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: bts.sio
+Main-Class: ${start-class}
+
